@@ -1,2 +1,2 @@
-# Desafio-GitHub-DIO-primeiro-repositorio
-Desafio de Projeto Git/GitHub bootCamp Avanade .Net/DIO
+# Repositorio do Desafio GitHub da plataforma DIO 
+Desafio de Projeto Git/GitHub bootCamp Avanade .Net
